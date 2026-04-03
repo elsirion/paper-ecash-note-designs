@@ -1,0 +1,13 @@
+{
+  "id": "historic",
+  "name": "Historic",
+  "front": "front.png",
+  "back": "back.png",
+  "qr": {
+    "x_offset_cm": 1.65,
+    "y_offset_cm": 1.13,
+    "size_cm": 4.8,
+    "error_correction": "Q",
+    "overlay": "qr_overlay.png"
+  }
+}

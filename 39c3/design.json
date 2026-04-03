@@ -1,0 +1,12 @@
+{
+  "id": "39c3",
+  "name": "39C3",
+  "front": "front.png",
+  "back": "back.png",
+  "qr": {
+    "x_offset_cm": 0.9,
+    "y_offset_cm": 0.87,
+    "size_cm": 4.2,
+    "error_correction": "Q"
+  }
+}
