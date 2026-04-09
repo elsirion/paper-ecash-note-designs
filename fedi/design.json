@@ -1,12 +1,22 @@
 {
+  "amount_text": {
+    "color_hex": "#000000",
+    "font_family": "Jersey 10",
+    "font_size_pt": 20.40948,
+    "font_url": "https://cdn.jsdelivr.net/fontsource/fonts/jersey-10@latest/latin-400-normal.ttf",
+    "height_cm": 0.96,
+    "width_cm": 3.91,
+    "x_offset_cm": 9.41,
+    "y_offset_cm": 5.5
+  },
+  "back": "back.png",
+  "front": "front.png",
   "id": "fedi",
   "name": "Fedi",
-  "front": "front.png",
-  "back": "back.png",
   "qr": {
-    "x_offset_cm": 0.0,
-    "y_offset_cm": 0.0,
-    "size_cm": 7.0,
-    "error_correction": "M"
+    "error_correction": "M",
+    "size_cm": 4.33,
+    "x_offset_cm": 1.07,
+    "y_offset_cm": 1.34
   }
 }

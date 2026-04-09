@@ -1,12 +1,22 @@
 {
+  "amount_text": {
+    "color_hex": "#000000",
+    "font_family": "Saira Stencil",
+    "font_size_pt": 27.212639999999997,
+    "font_url": "https://cdn.jsdelivr.net/fontsource/fonts/saira-stencil@latest/latin-400-normal.ttf",
+    "height_cm": 1.28,
+    "width_cm": 2.5,
+    "x_offset_cm": 9.23,
+    "y_offset_cm": 5.11
+  },
+  "back": "back.png",
+  "front": "front.png",
   "id": "39c3",
   "name": "39C3",
-  "front": "front.png",
-  "back": "back.png",
   "qr": {
-    "x_offset_cm": 0.9,
-    "y_offset_cm": 0.87,
-    "size_cm": 4.2,
-    "error_correction": "Q"
+    "error_correction": "Q",
+    "size_cm": 3.95,
+    "x_offset_cm": 1.01,
+    "y_offset_cm": 2.05
   }
 }
