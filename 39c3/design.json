@@ -13,6 +13,7 @@
   "front": "front.png",
   "id": "39c3",
   "name": "39C3",
+  "paper_color": "#05ff00",
   "qr": {
     "error_correction": "Q",
     "size_cm": 3.95,

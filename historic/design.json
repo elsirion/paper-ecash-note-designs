@@ -13,6 +13,7 @@
   "front": "front.png",
   "id": "historic",
   "name": "Historic",
+  "paper_color": "#f7e6d6",
   "qr": {
     "error_correction": "Q",
     "overlay": "qr_overlay.png",
