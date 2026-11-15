@@ -1,0 +1,23 @@
+{
+  "amount_text": {
+    "color_hex": "#000000",
+    "font_family": "Playfair Display",
+    "font_size_pt": 17.43,
+    "font_url": "https://cdn.jsdelivr.net/fontsource/fonts/playfair-display@latest/latin-700-normal.ttf",
+    "height_cm": 0.82,
+    "width_cm": 2.65,
+    "x_offset_cm": 9.6,
+    "y_offset_cm": 5.7
+  },
+  "back": "back.png",
+  "front": "front.png",
+  "id": "morpheus_pills",
+  "name": "Morpheus Pills",
+  "paper_color": "#c6e2b5",
+  "qr": {
+    "error_correction": "Q",
+    "size_cm": 4.03,
+    "x_offset_cm": 0.97,
+    "y_offset_cm": 1.48
+  }
+}
