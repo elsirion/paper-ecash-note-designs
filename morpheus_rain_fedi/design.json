@@ -1,0 +1,23 @@
+{
+  "amount_text": {
+    "color_hex": "#000000",
+    "font_family": "Share Tech Mono",
+    "font_size_pt": 15.94,
+    "font_url": "https://cdn.jsdelivr.net/fontsource/fonts/share-tech-mono@latest/latin-400-normal.ttf",
+    "height_cm": 0.75,
+    "width_cm": 3.62,
+    "x_offset_cm": 7.72,
+    "y_offset_cm": 5.17
+  },
+  "back": "back.png",
+  "front": "front.png",
+  "id": "morpheus_rain_fedi",
+  "name": "Morpheus Rain (Fedi)",
+  "paper_color": "#e8f5e9",
+  "qr": {
+    "error_correction": "Q",
+    "size_cm": 4.48,
+    "x_offset_cm": 0.88,
+    "y_offset_cm": 1.25
+  }
+}
